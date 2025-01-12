@@ -23,29 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O Objetivo foi criar um video de 1 minuto, expondo os beneficios da IA para os clientes, os empregados e para a CAIXA Econömica Federal.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+- Foi Utilizado o ChatGPT para a criacao do texto Roteiro 
+- Utilizada a IA Generativa A Generativa D-ID para para captura Avatar atraves de foto e sincronizacao do audio, que foi gravado diretamente em audio de Whatasapp, haja vista limitacao para conversao em audio de texto com mais de 10 palavras. fiz dois testes com vozes e avatares da versao livre.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1o - Com Auxilio do CHATGPT, atraves do prompt criei a proposta e fomos aprimorando. e chegamos a este prompt Final. Inicialmente a ideia era inserir o Texto na IA Generativa D-ID e trabalhar um avatar proprio para dar mais qualidade e capricho ao video, mas as limitacoes da versao livre nao permitiram, de maneira que decidi por importar o audio do texto fornecido pelo CHATGPT e a foto ficou crua, sem recorte e refinamento. Pensei que demoraria bem mais tempo, na real para obter esse resultado. A aceitacao dos tipos de arquivo e flexibilidade oferecidas pelas IAs,sao realmente surpreendentes!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O Video fala sobre a IA no contexto dos Clientes, empregados, Sociedade e da Propria CAIXA Economica Federal.
+
+https://studio.d-id.com/share?id=c02abe18031d6be45d94a0283e500584&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O principal desafio, foi aprender a lidar com estas interfaces e vencer o medo ou desconfianca de se eu teria habilidade e entendimento para cumprir e entender o desafio proposto. mas foi bem acessivel!
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
